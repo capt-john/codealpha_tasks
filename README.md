@@ -18,7 +18,7 @@ Includes:
    
 🟦 TASK-2. High-Fidelity UI Design 
 
-📁[ https://github.com/capt-john/codealpha_tasks/blob/main/CodeAlpha_%20High%20Fidelity%20Design%20of%20Food%20Delivery%20App.pdf](https://github.com/capt-john/codealpha_tasks/blob/main/CodeAlpha_%20High%20Fidelity%20Design%20of%20Food%20Delivery%20App.pdf)
+📁[ CodeAlpha_High Fidelity Design of Food Delivery App.pdf](https://github.com/capt-john/codealpha_tasks/blob/main/CodeAlpha_%20High%20Fidelity%20Design%20of%20Food%20Delivery%20.pdf)
 
 
 Includes:
