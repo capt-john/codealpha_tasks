@@ -3,9 +3,8 @@ This repository contains my complete UI/UX design work for a Food Delivery Mobil
 
 🟦 TASK-1. Wireframing & Low-Fidelity Design
 
-📁 
+📁 CodeAlpha_Low Fidelity Design of Food Delivery App.pdf
 
-🔗 Figma Link: 
 
 Includes:
 
@@ -17,11 +16,10 @@ Includes:
 
    Core User Journey Screens
    
-🎨TASK-2. High-Fidelity UI Design (If Completed)
+🎨TASK-2. High-Fidelity UI Design 
 
-📁 Task-2-High-Fidelity-UI
+📁 
 
-🔗 Figma Link: Add here
 
 Includes:
 
