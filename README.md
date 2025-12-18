@@ -33,24 +33,3 @@ Buttons, Icons & Components
 
 Fully Designed UI Screens
 
-Responsive Layouts
-
-📚TASK-3. UX Case Study (If Completed)
-
-📁 Task-3-UX-Case-Study
-
-📄 PDF: Add here
-
-Case Study Includes:
-
-App/Website Evaluation
-
-User Journey Map
-
-Strengths & Pain Points
-
-Usability Problems
-
-Suggested Improvements
-
-Sketches / Mockups
